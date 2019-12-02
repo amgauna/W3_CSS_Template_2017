@@ -37,10 +37,12 @@
     
     <style>
 	/* MENU */
-        .navbar { width: 100%; width: 100%; height: 100%; position: fixed; background-color: #e3f2fd;
+        .nav { width: 100%; height: 100%; position: fixed; background-color: #e3f2fd; color: #000000; 
+	       float: none;  display: inline; cursor: pointer; position: relative; overflow: hidden; } 
+	    
+	.navbar { width: 100%; height: 100%; position: fixed; background-color: transparent;
 	          top: 0; left: 0; display: none; text-transform: uppercase; padding: 3% 4%; 
-		  letter-spacing:normal; word-spacing:normal; font-size: 12px; line-height: 1.42857143; 
-		  float: none;  display: inline; cursor: pointer; position: relative; overflow: hidden; }
+		letter-spacing:normal; word-spacing:normal; font-size: 12px; line-height: 1.42857143; }
 
         .btn { width: 35px; height: 35px; float: right; text-align: center; cursor: pointer; float: right; 
 	       background-color: #ffffff; color: blue; border: none; margin-top: 3%; margin-right: 4%; }
@@ -57,7 +59,7 @@
 	
 <!-- inicio do MENU -->	
 <img src="img/imagem-amgauna-etibr.jpg" width="100%" height="auto" class="responsive"> 		
-<nav id="#menu" role="navigation" class="navbar-center navbar fixed-top navbar-light bg-light">
+<nav role="navigation" class="navbar-center navbar fixed-top navbar-light bg-light">
      <button type="button" class="btn navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">  
           <span class="navbar-toggler-icon"></span>                 
      </button>
