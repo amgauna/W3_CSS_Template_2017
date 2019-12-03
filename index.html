@@ -18,30 +18,39 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	
-    <!--  Bootstrap 3.3.7 -->	
+    <!--  CSS / Bootstrap 3.3.7 -->	
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
     <!-- fim do Bootstrap 3.3.7 -->
 	
-    <!--  Font Awesome 4 Icon -->
+    <!--  CSS / Font Awesome 4 Icon -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--  Fim Font Awesome -->
 	
-    <base href="#" target="_self"></base>  <!-- base do dominio padrão do website -->
+    <!--  <base href="#" target="_self"></base> -->   <!-- base do dominio padrão do website -->
     
     <style>
 	/* MENU */
-        .nav { width: 100%; height: 100%; padding: 3% 4%; position: fixed; float: none;  display: inline-block; 
-	       overflow: hidden; background-color: #e3f2fd; color: #000000; cursor: pointer; 
-	       letter-spacing:normal; word-spacing:normal; font-size: 12px; line-height: 1.42857143;} 
+        .navbar { width: 100%; height: 100%; padding: 3% 4%; position: fixed; float: none;  display: inline-block; 
+	          background-color: #e3f2fd; color: #000000; cursor: pointer; top: 10; botton: 10; left: 10; right: 10;
+	          letter-spacing:normal; word-spacing:normal; font-size: 12px; line-height: 1.42857143;  
+	          text-transform: uppercase; overflow: hidden; }
+        
+	 .toggle { display: block; }
+		
+         .collapse, .navbar-collapse { border-top: 1px solid transparent; display: none; 
+			               box-shadow: inset 0 1px 0 rgba(255,255,255,0.1); }       		
 	    
-	.navbar { width: 100%; height: auto; position: fixed; top: 0; left: 0; text-transform: uppercase; }
-
         .btn { width: 35px; height: 35px; float: right; text-align: center; cursor: pointer; float: right; 
-	       background-color: #fffeee; color: blue; border: none; margin-top: 3%; margin-right: 4%; }
+	       border: none; margin-top: 3%; margin-right: 4%; }
 
         .ul { width: 100%; float: left; text-align: center; }
-        .li { padding: 3%; font-size: 1.3em; }
+	    
+        .li { padding: 3%; font-size: 1.3em; float: none; margin-top: 0px; }
+	.li a { color: #005aff; background-color: #ffffff; } 			
+        .li a:hover {color: #f4511e; background-color: #bbbbbb;}			
+        .li a:active {color: #9F00FF; background-color: #fffddd;}			
+        				         																			   		 
     </style>
 	
 </head>  <!-- fim do cabeçalho -->
