@@ -38,18 +38,20 @@
          .li a:hover {color: #1a001a;}
 
 	/* MENU */
-	    
+	 .nav { width: 100%; height: 100%; position: fixed; top: 0; left: 0;
+	        background-color: rgba(137, 48, 232, 0.95); display: none; }
+		 
 	 .navbar { width: 100%; height: auto; padding: 0; /* text-transform: uppercase; */
                    position: fixed; float: none; top: 0; background-color: #e3f2fd; color: #000000; 
 		   cursor: pointer; display: inline; text-decoration: none; overflow: hidden; 
 		   line-height: 1.42857143; letter-spacing: normal; word-spacing: normal; }  
         
-	 .btn { width: 5px; height: auto; float: right; text-align: center; cursor: pointer; float: none; 
+	 .button .btn { width: 5px; height: auto; float: right; text-align: center; cursor: pointer; float: none; 
 	        background-color: transparent; }
 
-	 .toggle .navbar-toggle { display: block; }
+	 .button .toggle .navbar-toggle { display: block; }
 		
-         .collapse .navbar-collapse { border-top: 1px; display: none; box-shadow: inset 0 1px 0 rgba(255,255,255,0.1); }       		
+         .collapse.navbar-collapse { border-top: 1px; display: none; box-shadow: inset 0 1px 0 rgba(255,255,255,0.1); }       		
 	    
          .navbar ul { width: 100%; list-style-type: none; margin: 0; padding: 5%; background-color: transparent;
 		      border: 1px solid #555; text-align: center; overflow: hidden; }
@@ -78,14 +80,14 @@
            aria-controls="navbarNav" aria-expanded="false">  
            <span class="navbar-toggler-icon"></span>                 
      </button>
-     <div class="collapse.navbar-collapse" id="navbar-collapse">
+     <div class="collapse navbar-collapse" id="navbar-collapse">
           <a class="navbar-brand" href="#"></a>
           <ul class="navbar-nav mr-auto-lg">
-              <li class="nav-btn-item"> <a class="nav-link" href="index.html">Home</a> </li>
-              <li class="nav-btn-item"> <a class="nav-link" href="curriculo.html">Curriculo</a> </li>
-              <li class="nav-btn-item"> <a class="nav-link" href="servicos.html">Serviços</a> </li>
-              <li class="nav-btn-item"> <a class="nav-link" href="artigos.html">Artigos</a> </li>
-              <li class="nav-btn-item"> <a class="nav-link" href="antivirus.html">Antivirus</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="index.html">Home</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="curriculo.html">Curriculo</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="servicos.html">Serviços</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="artigos.html">Artigos</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="antivirus.html">Antivirus</a> </li>
            </ul>
       </div>  <!-- collapse -->		
 </nav>
