@@ -8,7 +8,7 @@
           </div>
           </center>
 
-      <!-- inicio do MENU SERVI«OS / Bootstrap / ServiÁos -->
+      <!-- inicio do MENU SERVI√áOS / Bootstrap / Servi√ßos -->
       <div class="section" style="background:silver; margin:0; padding:0px; border:1px solid #aaa">
       <nav role="navigation" class="navbar navbar-default navbar-static-top">
            <div class="container-fluid">
@@ -32,9 +32,9 @@
                       <ul class="nav navbar-nav navbar-right">
                           <li> <a href="home.php">Home</a> </li>
                           <li> <a href="curriculo.php">Curriculo</a> </li>
-                          <li class="active"> <a href="servicos.php">ServiÁos</a> </li>
+                          <li class="active"> <a href="servicos.php">Servi√ßos</a> </li>
                           <li> <a href="artigos.php">Artigos</a> </li>
-                          <li> <a href="instalacao.php">InstalaÁ„o</a> </li>
+                          <li> <a href="instalacao.php">Instala√ß√£o</a> </li>
                           <li> <a href="antivirus.php">Antivirus</a> </li>
                           <li> <a href="http://pt.gravatar.com/amgauna">Sobre Mim</a> </li>
                           <li> <a href="http://anagauna.wordpress.com">Wodpress</a> </li>
@@ -77,51 +77,51 @@
 
                 <div class="col-md-8" align="justify"> <!-- coluna 2 --> 
                     <p></p><br>
-                    <h4><b>CONSULTORIA EM TECNOLOGIA DA INFORMA«√O</b></h4>
+                    <h4><b>CONSULTORIA EM TECNOLOGIA DA INFORMA√á√ÉO</b></h4>
                     <p></p><br>
 					<ul>
-					    <li>Minha profiss„o È <b>Analista de Sistemas NegÛcios Projetos e Infraestrutura Senior </b> (idade: 52 anos). </li> 
-						<li>Tenho 27 anos de experiÍncia profissional com carteira de trabalho assinada (CLT),
-						    tenho experiÍncia na execuÁ„o e administraÁ„o de diversos tipos de trabalhos de 
-							¡rea tÈcnica e administrativa. Tenho muita experiÍncia com suporte tÈcnico com foco 
-                            em soluÁıes, apÛs an·lise de problemas tÈcnicos ou administrativos, buscando quais 
+					    <li>Minha profiss√£o √© <b>Analista de Sistemas Neg√≥cios Projetos e Infraestrutura Senior </b> (idade: 52 anos). </li> 
+						<li>Tenho 27 anos de experi√™ncia profissional com carteira de trabalho assinada (CLT),
+						    tenho experi√™ncia na execu√ß√£o e administra√ß√£o de diversos tipos de trabalhos de 
+							√Årea t√©cnica e administrativa. Tenho muita experi√™ncia com suporte t√©cnico com foco 
+                            em solu√ß√µes, ap√≥s an√°lise de problemas t√©cnicos ou administrativos, buscando quais 
                             softwares ou equipamentos podem ajudar a resolver.	</li>
-						<li>Anos atr·s administrei a implantaÁ„o de sistemas ERP de Recursos Humanos e Contabilidade. </li>
-                        <li>Desde Setembro/1992 atÈ Fevereiro/2015 trabalhei no Edificio Centro Candido Mendes 
-						    (Rio de Janeiro), na administraÁ„o do condominio do predio, e meu cargo foi subgerÍncia
-							(de Setembro/1996 atÈ Fevereiro/2015). No meu ex-emprego ajudei os funcionarios do setor
-							de recursos humanos, contabilidade, auditoria contabil, engenharia de manutenÁ„o, 
-							advogados, etc, com suporte tÈcnico-administrativo, realizando diversos trabalhos. </li>
+						<li>Anos atr√°s administrei a implanta√ß√£o de sistemas ERP de Recursos Humanos e Contabilidade. </li>
+                        <li>Desde Setembro/1992 at√© Fevereiro/2015 trabalhei no Edificio Centro Candido Mendes 
+						    (Rio de Janeiro), na administra√ß√£o do condominio do predio, e meu cargo foi subger√™ncia
+							(de Setembro/1996 at√© Fevereiro/2015). No meu ex-emprego ajudei os funcionarios do setor
+							de recursos humanos, contabilidade, auditoria contabil, engenharia de manuten√ß√£o, 
+							advogados, etc, com suporte t√©cnico-administrativo, realizando diversos trabalhos. </li>
  						<li>Atualmente estou desempregada tem mais de 24 meses, procuro emprego novo ou trabalhos. </li>
-						<li>Estou aceitando trabalhos como profissional liberal aut√¥noma, com pagamentos via RPA 
+						<li>Estou aceitando trabalhos como profissional liberal aut√É¬¥noma, com pagamentos via RPA 
 						    ou boleto bancario PagSeguro ou boleto bancario via PayPal. </li>
                         <li>Twitter: @amgauna @AnaGaunaTech | Skype: amgauna@hotmail.com | email: amgauna@gmail.com </li>
 						<li>Estabelecida em Botafogo, na Zona Sul da Cidade do Rio de Janeiro, Cep 22270-003, Brasil. </li>
 						<li>Uso as redes sociais: Twitter, Facebook, Linkedin, Instagram, Google+, etc. </li>
-						<li>Tenho cadastro desde 1998 junto ao Registro.BR, alem dele tenho cadastro tambÈm na IBM,
-						CompTIA, ISACA, AXELOS, PMI e Oracle para leitura de manual tÈcnico e artigos tÈcnicos. </li>
-                        <li>Tenho a formaÁ„o em Tecnologia em Processamento de Dados, a formaÁ„o MCSE Infraestrutura 
-						    Microsoft Windows Server + TCP/IP + Microsoft SQL Server, a formaÁ„o Cisco CCNA2 R&S. </li>
-					    <li>Tenho conhecimento das normas tÈcnicas de SeguranÁa ABNT ISO 27001, 27002, 27003 em
-						    Tecnologia da InformaÁ„o, e da norma tÈcnica de Gest„o de Projetos.</li>
-						<li>Tenho noÁ„o de administraÁ„o e controle, contabilidade, economia, direito e legislaÁ„o, 
-                            matematica financeira, marketing de conte˙do, psicologia, administraÁ„o predial, etc.</li>
+						<li>Tenho cadastro desde 1998 junto ao Registro.BR, alem dele tenho cadastro tamb√©m na IBM,
+						CompTIA, ISACA, AXELOS, PMI e Oracle para leitura de manual t√©cnico e artigos t√©cnicos. </li>
+                        <li>Tenho a forma√ß√£o em Tecnologia em Processamento de Dados, a forma√ß√£o MCSE Infraestrutura 
+						    Microsoft Windows Server + TCP/IP + Microsoft SQL Server, a forma√ß√£o Cisco CCNA2 R&S. </li>
+					    <li>Tenho conhecimento das normas t√©cnicas de Seguran√ßa ABNT ISO 27001, 27002, 27003 em
+						    Tecnologia da Informa√ß√£o, e da norma t√©cnica de Gest√£o de Projetos.</li>
+						<li>Tenho no√ß√£o de administra√ß√£o e controle, contabilidade, economia, direito e legisla√ß√£o, 
+                            matematica financeira, marketing de conte√∫do, psicologia, administra√ß√£o predial, etc.</li>
                         <li>Tenho conhecimento de Microsoft Office (Word, Excel, Powerpoint, Access, Visio, Project),</li>
-						<li>Linguagens de programaÁ„o web: HTML5, CSS, Javascript, Bootstrap (GitHUB: @amgauna) </li>
+						<li>Linguagens de programa√ß√£o web: HTML5, CSS, Javascript, Bootstrap (GitHUB: @amgauna) </li>
 						<li>Sou Microsoft Partner Cloud Solution Provider (CSP) e Symantec Partner Endpoint </li>
 					</ul>
 					
 					<p></p><br>
-                    <h4><b>SUPORTE T…CNICO</b></h4>
+                    <h4><b>SUPORTE T√âCNICO</b></h4>
                     <p></p><br>
                     <ul>
-	                    <li>ManutenÁ„o preventiva em computadores (Limpeza interna de placas no Desktop)</li>
+	                    <li>Manuten√ß√£o preventiva em computadores (Limpeza interna de placas no Desktop)</li>
 	                    <li>Upgrade e montagem de computadores</li>
-	                    <li>InstalaÁ„o e formataÁ„o do disco rigido
-						<li>DesfragmentaÁ„o do disco rigido e otimizaÁ„o do registro do Windows </li>
-	                    <li>InstalaÁ„o e configuraÁ„o de softwares diversos (aplicativos, utilit·rios, sistema operacional, drivers, etc)</li>
-	                    <li>InstalaÁ„o e configuraÁ„o de equipamentos diversos wireless: roteador wireless, impressora wireless,
-						    webcam, camera IP wireless, televis„o smart-TV wireless, antivirus e remoÁ„o de virus, etc </li>
+	                    <li>Instala√ß√£o e formata√ß√£o do disco rigido
+						<li>Desfragmenta√ß√£o do disco rigido e otimiza√ß√£o do registro do Windows </li>
+	                    <li>Instala√ß√£o e configura√ß√£o de softwares diversos (aplicativos, utilit√°rios, sistema operacional, drivers, etc)</li>
+	                    <li>Instala√ß√£o e configura√ß√£o de equipamentos diversos wireless: roteador wireless, impressora wireless,
+						    webcam, camera IP wireless, televis√£o smart-TV wireless, antivirus e remo√ß√£o de virus, etc </li>
 						<li>Backup de dados em Microsoft Windows Server / Microsoft SQL Server </li>
                     </ul>
 					
@@ -130,53 +130,53 @@
                     <p></p><br>
                     </span><span style="font-family: Times;"></span>
                     <ul>
-	                    <li>Escolho o provedor de serviÁos e faÁo o registro de seu dominio prÛprio na internet.†</span></li>
-	                    <li>Desenvolvimento de Website e Blog, (com ou sem) registro de dominio prÛprio na internet</span></li>
-	                    <li>Desenvolvimento de Blog Wordpress (eu ensino ao usu·rio como configurar os posts)</span></li>
-	                    <li>EdiÁ„o de Templates, e diagramaÁ„o de imagens e informaÁıes</span></li>
-                        <li>ConfiguraÁ„o Google SEO (AdWords, AdSence, Analytics, Webmasters, Tags</span></li>
-	                    <li>EdiÁ„o de imagens e fotografias para festas e eventos</span></li>
-	                    <li>AnimaÁ„o de imagens, animaÁ„o de Lettering, animaÁ„o de fotografias</span></li>
+	                    <li>Escolho o provedor de servi√ßos e fa√ßo o registro de seu dominio pr√≥prio na internet.¬†</span></li>
+	                    <li>Desenvolvimento de Website e Blog, (com ou sem) registro de dominio pr√≥prio na internet</span></li>
+	                    <li>Desenvolvimento de Blog Wordpress (eu ensino ao usu√°rio como configurar os posts)</span></li>
+	                    <li>Edi√ß√£o de Templates, e diagrama√ß√£o de imagens e informa√ß√µes</span></li>
+                        <li>Configura√ß√£o Google SEO (AdWords, AdSence, Analytics, Webmasters, Tags</span></li>
+	                    <li>Edi√ß√£o de imagens e fotografias para festas e eventos</span></li>
+	                    <li>Anima√ß√£o de imagens, anima√ß√£o de Lettering, anima√ß√£o de fotografias</span></li>
 	                    <li>Redimencionamento de Imagens e fotografias</span></li>
-	                    <li>Desenho de Logomarca, Lettering, PortfÛlio, Flipper, Cartazes, etc</span></li>
+	                    <li>Desenho de Logomarca, Lettering, Portf√≥lio, Flipper, Cartazes, etc</span></li>
 	                    <p><br></p>
                     </ul>
                     <p></p><br>
                     <h4><b>PAGAMENTO</b></h4>
 					<p></p><br>
-					    <li>¿ vista em dinheiro (RPA) ou depÛsito banc√°rio</li>
+					    <li>√Ä vista em dinheiro (RPA) ou dep√≥sito banc√É¬°rio</li>
 						<li>Boleto Bancario (via PayPal ou via PagSeguro)</li>
-						<li>Cart„o de CrÈdito (via Paypal ou PagSeguro) </li>
-						<li>ApÛs aprovaÁ„o do serviÁo e confirmaÁ„o do pagamento efetivado, inicio os trabalhos.
-						<li>Caso a empresa tenha necessidade, pode ser feito um contrato de serviÁos tÈcnicos.
+						<li>Cart√£o de Cr√©dito (via Paypal ou PagSeguro) </li>
+						<li>Ap√≥s aprova√ß√£o do servi√ßo e confirma√ß√£o do pagamento efetivado, inicio os trabalhos.
+						<li>Caso a empresa tenha necessidade, pode ser feito um contrato de servi√ßos t√©cnicos.
                     <p></p><br>
 					
-                     <!--  C√≥digo do bot√£o PayPAl -->
+                     <!--  C√É¬≥digo do bot√É¬£o PayPAl -->
                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                      <input type="hidden" name="cmd" value="_s-xclick">
                      <input type="hidden" name="hosted_button_id" value="JQ6PLKHRSYGGJ">
                      <table>
-                     <tr><td><input type="hidden" name="on0" value="ServiÁos">ServiÁos</td></tr><tr><td>
+                     <tr><td><input type="hidden" name="on0" value="Servi√ßos">Servi√ßos</td></tr><tr><td>
 					     <select name="os0">
-	                     <option value="Suporte TÈcnico (dia):">Suporte TÈcnico (dia): R$250,00</option>
-	                     <option value="Consultoria TÈcnica (dia):">Consultoria TÈcnica (dia): R$250,00</option>
-	                     <option value="Suporte TÈcnico (1semana):">Suporte TÈcnico (1semana): R$1.250,00</option>
-	                     <option value="Suporte TÈcnico (mensal):">Suporte TÈcnico (mensal): R$5.000,00</option>
-	                     <option value="Consultoria tÈcnica (mensal):">Consultoria tÈcnica (mensal): R$5.000,00</option>
-	                     <option value="Visita TÈcnica:">Visita TÈcnica: R$180,00</option>
+	                     <option value="Suporte T√©cnico (dia):">Suporte T√©cnico (dia): R$250,00</option>
+	                     <option value="Consultoria T√©cnica (dia):">Consultoria T√©cnica (dia): R$250,00</option>
+	                     <option value="Suporte T√©cnico (1semana):">Suporte T√©cnico (1semana): R$1.250,00</option>
+	                     <option value="Suporte T√©cnico (mensal):">Suporte T√©cnico (mensal): R$5.000,00</option>
+	                     <option value="Consultoria t√©cnica (mensal):">Consultoria t√©cnica (mensal): R$5.000,00</option>
+	                     <option value="Visita T√©cnica:">Visita T√©cnica: R$180,00</option>
 	                     <option value="Desenvolvimento de Website (mensal):">Desenvolvimento de Website (mensal): R$5.000,00</option>
 	                     <option value="Desenvolvimento de Blog (Wordpress/Blogspot):">Desenvolvimento de Blog (Wordpress/Blogspot): R$1.500,00</option>
-	                     <option value="ConfiguraÁ„o SEO Google:">ConfiguraÁ„o SEO Google: R$980,00</option>
-	                     <option value="ConfiguraÁ„o Facebook ADS:">ConfiguraÁ„o Facebook ADS: R$280,00</option>
+	                     <option value="Configura√ß√£o SEO Google:">Configura√ß√£o SEO Google: R$980,00</option>
+	                     <option value="Configura√ß√£o Facebook ADS:">Configura√ß√£o Facebook ADS: R$280,00</option>
                          </select></td>
 					 </tr>
                      </table>
                      <input type="hidden" name="currency_code" value="BRL">
                      <input type="image" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" 
-					         alt="PayPal - A maneira f·cil e segura de enviar pagamentos online!">
+					         alt="PayPal - A maneira f√°cil e segura de enviar pagamentos online!">
                      <img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
                      </form>
-                     <!--  fim do c√≥digo do bot√£o PayPal  -->
+                     <!--  fim do c√É¬≥digo do bot√É¬£o PayPal  -->
 					                     
                      </blockquote>
 					 <p></p><br></br>
@@ -198,17 +198,17 @@
         <div class="divisor-breadcrumb"> 
 		<section class="article-single">
              <div class="col-md-10">
-	         <h3>REGISTRO DE DOMINIO PR”PRIO DE WEBSITE - Categorias .BR</h3>
+	         <h3>REGISTRO DE DOMINIO PR√ìPRIO DE WEBSITE - Categorias .BR</h3>
              <h4><p>
 		     Listagem de algumas categorias de dominio internet .BR
 		     oferecidas pelo <a href="https://nic.br"><b> Nic.BR </b></a> /  
 			                 <a href="https://registro.br"><b> Registro.BR </b></a> <br> </h4><h3>
 		     <a href="https://registro.br/dominio/categoria.html"><b> https://registro.br/dominio/categoria.html </b></a> 
 			 </h3><h4><p>
-		     As categorias de registro de dominio internet s„o divididas em 3 tipos:  <br> 
-		     1∫- Os dominios de pessoa fisica e profissionais liberais sÛ podem ser registrados por um titular com CPF. <br> 
-		     2∫- Os dominios de pessoa juridica devem ser associados a um CNPJ (empresas). <br> 
-		     3∫- Os dominios genÈricos podem ser registrados por CPF (pessoa fisica) ou CNPJ (empresas).</p>
+		     As categorias de registro de dominio internet s√£o divididas em 3 tipos:  <br> 
+		     1¬∫- Os dominios de pessoa fisica e profissionais liberais s√≥ podem ser registrados por um titular com CPF. <br> 
+		     2¬∫- Os dominios de pessoa juridica devem ser associados a um CNPJ (empresas). <br> 
+		     3¬∫- Os dominios gen√©ricos podem ser registrados por CPF (pessoa fisica) ou CNPJ (empresas).</p>
 		     </p></br></p></h4>
 			</div>
 		</section>
