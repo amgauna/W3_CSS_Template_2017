@@ -9,5 +9,5 @@ fclose($fp);
 $fp = fopen($arquivo,"w+"); 
 fwrite($fp, $contador, 26); 
 fclose($fp); 
-"Esta página foi visitada $contador vezes"; 
+"Esta pÃ¡gina foi visitada $contador vezes"; 
 ?>	
