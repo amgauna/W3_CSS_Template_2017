@@ -1,67 +1,94 @@
 <!DOCTYPE html>
 
 <html lang="pt-br">
-    
-<head>  <!-- inicio do cabeçalho (propriedades padrão) -->
+
+<head>   <!--  Inicio do cabeçalho -->
+
+    <title>Ana Gauna</title>
 	
-      <meta charset="utf-8-br">  <!-- idioma português-brasileiro -->
-	  <meta name="keywords" content="HTML,CSS,XML,JavaScript,Bootstrap,JQuery">
-
-      <title>Ana Gauna</title>
-      <meta name="Date" content="06/11/2016">
-      <base href="http://www.amgauna.eti.br/web" target="_blank">
-      <meta name="author" content="Ana Mercedes Gauna">
-      <meta name="description" content="Ana Mercedes Gauna, CRA-RJ: 03-03161, ABRAWEB: 66132, ABRACEM: Q27795, 
-		                                amgauna@gmail.com, amgauna@outlook.com, Analista de Sistemas Senior, Webmaster,
-			  							Tecnólogo em Processamento de Dados, Tecnologia da Informação (TI), Big Data Analytics, 
-									    Business Intelligence (BI), Gestão de Projetos, Business Process Management (BPM)">
-
-	  <meta name="viewport" content="width=device-width, initial-scale=1">
-      <script type="text/JavaScript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"> </script>
-      <script type="text/JavaScript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"> </script>
-      <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-      <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css" rel="stylesheet" type="text/css">
-
-</head>  <!-- fim do cabeçalho -->
+    <meta name="Date" content="06/11/2016" />
+    <meta name="author" content="Ana Mercedes Gauna" />
+    <meta name="description" content="Ana Mercedes Gauna, CRA-RJ: 03-03161, Analista de Sistemas Senior, 
+				      email: amgauna@gmail.com, Skype: @amgauna, Twitter: @amgauna">
+    <meta name="keywords" content="html, css, xml, javascript, bootstrap, php, jquery, java, python,
+				   suporte técnico, desenvolvedor web, front-end, back-end, TI, IT,
+				   analista de sistemas, gestão de projetos, SEO, designer gáfico">
+	
+    <meta charset="UTF-8" language="pt-br">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+    <!--  CSS / Bootstrap 3.3.7 -->	
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+    <!-- fim do Bootstrap 3.3.7 -->
+	
+    <!--  CSS / Font Awesome 4 Icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--  Fim Font Awesome -->
+	
+    <!--  <base href="#" target="_self"></base> -->   <!-- base do dominio padrão do website -->
     
-<body>
+    <style>
+         * {margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, Times New Roman, sans-serif; size: normal;}
+	 .body {background: #ffffff; color: #000000;}   /* color = #ee66aa 40%, #8930e8 90% */
+         .li a {text-decoration: none; color: #ee66aa;}
+         .li a:hover {color: #1a001a;}
+	/* MENU */
+	 .nav { width: 100%; height: 100%; position: fixed; top: 0; left: 0;
+	        background-color: #e3f2fd; ; display: inline; }
+		 
+	 .navbar { width: 100%; padding: 0; text-transform: uppercase; position: fixed; float: none;  
+		   color: #000000; cursor: pointer; display: inline; text-decoration: none; 
+		   overflow: hidden; line-height: 1.42857143; letter-spacing: 5%; word-spacing: normal; }  
+        
+	 .btn { width: 5px; height: auto; float: right; text-align: center; cursor: pointer; float: none; 
+	        background-color: #cccccc; }
+	 .navbar-toggle { display: block; }
+		
+         .collapse .navbar-collapse { border-top: 1px; display: none; box-shadow: inset 0 1px 0 rgba(255,255,255,0.1); }       		
 	    
-	  <img src="http://www.amgauna.eti.br/images/gauna.jpg">
+         .navbar ul { width: 100%; list-style-type: none; margin: 0; padding: 5%; background-color: transparent;
+		      border: 1px solid #555; text-align: center; overflow: hidden; }
+	    
+         .navbar li { margin:0; padding: 5%; font-size: medium; display: inline; float: left; text-align: center;
+                      border-bottom: 1px solid #555; }
+	    	    
+	 .navbar li a { color: #005aff; background-color: #fffeee; display: inline; 
+		        text-align: center; text-decoration: none; border-bottom: 1px solid #555; } 	
+	    
+         .navbar li a:hover {color: #f4511e; background-color: #bbbbbb;}
+	    
+         .navbar li a:active {color: #9F00FF; background-color: #fffddd;}			        				         																			   		 
+    </style>
 	
-      <!-- inicio do cabecalho de MENU -->
-      <nav role="navigation" class="navbar navbar-default navbar-static-top">
-           <div class="container-fluid">
-                <div class="navbar-header">
-				     <a class="navbar-brand" href="#"><b>AMGAUNA SERVIÇOS DE INFORMÁTICA & CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO</b></a>
-                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">  
-                             <span class="sr-only">Toggle navigation</span>
-                             <span class="icon-bar"></span>    <!--  curriculo -->
-                             <span class="icon-bar"></span>    <!--  serviços  -->
-                             <span class="icon-bar"></span>    <!--  trabalhos -->
-                             <span class="icon-bar"></span>    <!--  dicas -->
-                             <span class="icon-bar"></span>    <!--  empresas  -->
-                             <span class="icon-bar"></span>    <!--  home -->
-                     </button>
-                </div>
-                      <div class="collapse navbar-collapse" id="navbar-ex-collapse">   
-                           <ul class="nav navbar-nav navbar-right">
-                               <li class="active">
-                                   <a href="home-bootstrap.html">Home</a>
-                               </li>
-                               <li class="dropdown">
-                                   <a data-toggle="dropdown" class="dropdown-toggle" href="#">Trabalhos<b class="caret"></b></a>
-                                   <ul role="menu" class="dropdown-menu">
-                                   <li> <a href="curriculo-bootstrap.html">Currículo</a> </li>
-                                   <li> <a href="servicos-bootstrap.html">Serviços</a>   </li>
-                                   <li> <a href="artigos-bootstrap.html">Artigos</a>     </li>
-                                   <li> <a href="antivirus-bootstrap.html">Dicas: Antivírus</a> </li>
-                                   <li> <a href="empresas-bootstrap.html">Empresas</a>     </li> 
-                               </li>
-                           </ul> 
-                      </div>
-             </div>
-        </nav>
-        <!-- fim do cabecalho de MENU -->
+</head>  <!-- fim do cabeçalho -->
+
+<!-- ====================================================================================================================== --> 
+
+<body style="color:black; margin:0; padding:0; border:0;">		
+	
+<!-- inicio do MENU -->	
+<img src="img/imagem-amgauna-etibr.jpg" width="100%" height="auto" class="responsive"> 		
+<nav role="navigation" class="navbar navbar-expand-sm navbar-top navbar-light bg-light">
+     <button type="button" class="btn navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse"
+           aria-controls="navbarNav" aria-expanded="false">  
+           <span class="navbar-toggler-icon"></span>                 
+     </button>
+     <div class="collapse navbar-collapse" id="navbar-collapse">
+          <a class="navbar-brand" href="#"></a>
+          <ul class="navbar-nav mr-auto-lg">
+              <li class="nav-item"> <a class="nav-link" href="index.html">Home</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="servicos.html">Serviços</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="artigos.html">Artigos</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="antivirus.html">Antivirus</a> </li>
+           </ul>
+      </div>  <!-- collapse -->		
+</nav>
+<!-- fim do MENU -->
+
+<!-- ====================================================================================================================== --> 
 
 </body>
+	
 </html>
