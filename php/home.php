@@ -34,9 +34,9 @@
                     <ul class="nav navbar-nav navbar-right"> 
                         <li class="active"> <a href="home.php">Home</a> </li>
                         <li> <a href="curriculo.php">Curriculo</a> </li>
-                        <li> <a href="servicos.php">Serviços</a> </li>
+                        <li> <a href="servicos.php">ServiÃ§os</a> </li>
                         <li> <a href="artigos.php">Artigos</a> </li>
-                        <li> <a href="instalacao.php">Instalação</a> </li>
+                        <li> <a href="instalacao.php">InstalaÃ§Ã£o</a> </li>
                         <li> <a href="antivirus.php">Antivirus</a> </li>
                         <li> <a href="http://pt.gravatar.com/amgauna">Sobre Mim</a> </li>
                         <li> <a href="http://anagauna.wordpress.com">Wodpress</a> </li>
@@ -51,7 +51,7 @@
 
 
        <!-- inicio da primeira coluna --> 
-       <div class="section" style="background:#F0FFF0; margin:0; padding:6px; border:1px solid #aaa">  <!-- #F0FFF0  cor manÃ¡ -->  
+       <div class="section" style="background:#F0FFF0; margin:0; padding:6px; border:1px solid #aaa">  <!-- #F0FFF0  cor manÃƒÂ¡ -->  
             <div class="container">
                  <div class="row">
                       <div class="col-md-12" align="justify" 
@@ -61,7 +61,7 @@
                            <h4><b style="color:darkviolet;">ANA MERCEDES GAUNA</b></h4> 
                            <p><br></p>
                            <ul Charset="UTF-8" lang="pt-br" content="text/html"> 
-                               <li>Profissão: Analista de Sistemas Negócios Projetos e Infraestrutura Senior #CTO #MCSE #CCNA2</li> <p>
+                               <li>ProfissÃ£o: Analista de Sistemas NegÃ³cios Projetos e Infraestrutura Senior #CTO #MCSE #CCNA2</li> <p>
                                <li>CRA-RJ: 03-03161 Tecnologo | ABRAWEB: 66132 Webmaster | ABRACEM: Q27795 Consultora de Tecnologia; </li> <p>
                                <li>Microsoft Partner - MPN: 4970237 - Microsoft Cloud Solution Provider (CSP) </li> <p>
                                <li>MCSE: 098-02070 | MCSE Infraestrutura Microsoft Windows Server + TCP/IP + Microsoft SQL Server</li> <p>
@@ -111,36 +111,36 @@
 
 
 
-        <!-- início da segunda coluna -->
+        <!-- inÃ­cio da segunda coluna -->
         <div class="section" style="background: #FFEBCD; margin:0; padding:8px; border:1px solid #aaa">	<!-- #FFEBCD cor blanchedalmond -->  
             <div class="container">
                 <div class="row">
                       <div class="col-md-12" 
                                 <p></p>
-                                <h3><b><u>PRESTAÇÃO DE SERVIÇOS</u></b></h3>						 
+                                <h3><b><u>PRESTAÃ‡ÃƒO DE SERVIÃ‡OS</u></b></h3>						 
                                 <p><br></p> 
                                  <ul align="justify"> 
-                                     <li>Suporte técnico-administrativo com foco em analisar problemas e buscar soluções técnicas.
-                                         Tenho muita experiência com suporte técnico analisando problemas técnicos e administrativos, 
+                                     <li>Suporte tÃ©cnico-administrativo com foco em analisar problemas e buscar soluÃ§Ãµes tÃ©cnicas.
+                                         Tenho muita experiÃªncia com suporte tÃ©cnico analisando problemas tÃ©cnicos e administrativos, 
                                          ajudando: advogados, contadores, auditores contabeis, engenheiros, arquitetos, etc, e 
-                                         buscando quais soluções em softwares ou equipamentos podem ajudar a solucionar os problemas... </li> <p>
-                                     <li>Ajudo empresas a implantar seus negócios, projetos, sistemas e aplicativos web em #Cloud; </li> <p>
-                                     <li><a href="http://www.amgauna.eti.br/servicos-bootstrap.html">Suporte técnico de manutenção preventiva (hardware/software)</a> </li> <p>
-                                     <li>Instalação e configuração de programas de computador diversos; </li> <p>
-                                     <li>Instalação e configuração de softwares antivirus, e remoção de virus. 
-                                         Experiência com Symantec Norton Security, Kaspersky Security, TrendMicro Security, Intel Security, AVG, AVAST, etc; </li> <p>
-                                     <li>Instalação e configuração de equipamentos de informática diversos; </li> <p>
-                                     <li>Análise de infraestrura de rede de computadores, para compra, upgrade e montagem de computadores; </li> <p>
+                                         buscando quais soluÃ§Ãµes em softwares ou equipamentos podem ajudar a solucionar os problemas... </li> <p>
+                                     <li>Ajudo empresas a implantar seus negÃ³cios, projetos, sistemas e aplicativos web em #Cloud; </li> <p>
+                                     <li><a href="http://www.amgauna.eti.br/servicos-bootstrap.html">Suporte tÃ©cnico de manutenÃ§Ã£o preventiva (hardware/software)</a> </li> <p>
+                                     <li>InstalaÃ§Ã£o e configuraÃ§Ã£o de programas de computador diversos; </li> <p>
+                                     <li>InstalaÃ§Ã£o e configuraÃ§Ã£o de softwares antivirus, e remoÃ§Ã£o de virus. 
+                                         ExperiÃªncia com Symantec Norton Security, Kaspersky Security, TrendMicro Security, Intel Security, AVG, AVAST, etc; </li> <p>
+                                     <li>InstalaÃ§Ã£o e configuraÃ§Ã£o de equipamentos de informÃ¡tica diversos; </li> <p>
+                                     <li>AnÃ¡lise de infraestrura de rede de computadores, para compra, upgrade e montagem de computadores; </li> <p>
                                      <li>SEO (Google AdWords, Google AdSence, Google Analytics, Google Webmasters, Google Tags, Bing Ads); </li> <p>
-                                     <li>Facebook Ads / Twitter Ads (criação de panfletos, configuração de campanhas de marketing); </li> <p>
-                                     <li>Manutenção preventiva de computadores (limpeza de poeira, remoção de arquivos temporarios, 
-                                         desfragmentação do disco rigido, otimização do registro do Windows; </li> <p> 
-                                      <li>Instalaçã£o e configuração de roteador wireless, impressora wireless, televisor Smart-TV wireless; </li> <p>
-                                      <li>Edição de imagens para eventos, criação de banner, portifÃ³lio e lettering; </li> <p>
-                                      <li>Desenvolvimento Web: Sites com HTML5 responsivo, JavaScript, CSS, Bootstrap, com registro de domÃ­nio prÃ³prio, 
-                                          para profissionais liberais (Médicos, Fisioterapeutas, Dentistas, Advogados, Engenheiros, etc); </li> <p>
-                                      <li>Desenvolvimento Web: configuração de Blogs Wordpress ou Blogger com registro de dominio próprio. 
-                                          Ensino o usuario a utilizar a configuração do Blog. </li> <p> 
+                                     <li>Facebook Ads / Twitter Ads (criaÃ§Ã£o de panfletos, configuraÃ§Ã£o de campanhas de marketing); </li> <p>
+                                     <li>ManutenÃ§Ã£o preventiva de computadores (limpeza de poeira, remoÃ§Ã£o de arquivos temporarios, 
+                                         desfragmentaÃ§Ã£o do disco rigido, otimizaÃ§Ã£o do registro do Windows; </li> <p> 
+                                      <li>InstalaÃ§Ã£Â£o e configuraÃ§Ã£o de roteador wireless, impressora wireless, televisor Smart-TV wireless; </li> <p>
+                                      <li>EdiÃ§Ã£o de imagens para eventos, criaÃ§Ã£o de banner, portifÃƒÂ³lio e lettering; </li> <p>
+                                      <li>Desenvolvimento Web: Sites com HTML5 responsivo, JavaScript, CSS, Bootstrap, com registro de domÃƒÂ­nio prÃƒÂ³prio, 
+                                          para profissionais liberais (MÃ©dicos, Fisioterapeutas, Dentistas, Advogados, Engenheiros, etc); </li> <p>
+                                      <li>Desenvolvimento Web: configuraÃ§Ã£o de Blogs Wordpress ou Blogger com registro de dominio prÃ³prio. 
+                                          Ensino o usuario a utilizar a configuraÃ§Ã£o do Blog. </li> <p> 
                                  </ul>
                                  <p> <br> </p>
          </div> </div> </div> </div> </div>
@@ -154,14 +154,14 @@
                 <div class="row">
                      <div class="col-md-6" text-info-top text-left>
                               <p></p>   
-                              <h3><b><u>VISITA TÉCNICA</u></b></h3>
+                              <h3><b><u>VISITA TÃ‰CNICA</u></b></h3>
                               <p><br></p>
                               <ul align="justify">  
                                   <li>Estabelecida em Botafogo, aceito receber trabalhos para atendimento no Centro/RJ ou na Zona Sul do Rio de Janeiro/RJ (Brasil). </li> <p>
-                                  <li>Atendimento: De segunda à  sexta feira das 10:00 hs até 18:00 horas (entre em contato comigo e agende um dia/horário). </li> <p>
-                                  <li>Visita técnica: R$100,00 (segunda á  sexta feira / horario comercial) </li> <p>
-                                  <li>Suporte técnico: Valor total do orçamento será informado após analise da infraestrutura (software/hardware) 
-                                      e determinado a quantidade de equipamentos. Pagamento: A VISTA / parcelado em Boleto Bancário (PagSeguro/PayPal)</li><p>
+                                  <li>Atendimento: De segunda Ã Â  sexta feira das 10:00 hs atÃ© 18:00 horas (entre em contato comigo e agende um dia/horÃ¡rio). </li> <p>
+                                  <li>Visita tÃ©cnica: R$100,00 (segunda Ã¡Â  sexta feira / horario comercial) </li> <p>
+                                  <li>Suporte tÃ©cnico: Valor total do orÃ§amento serÃ¡ informado apÃ³s analise da infraestrutura (software/hardware) 
+                                      e determinado a quantidade de equipamentos. Pagamento: A VISTA / parcelado em Boleto BancÃ¡rio (PagSeguro/PayPal)</li><p>
                               </ul>
                              <p> 
                              <center>  
@@ -178,11 +178,11 @@
                         <h3><b><u>DICAS</u></b></h3>
                         <p><br></p> <b>  
                         <ul align="justify"> 
-                            <li>Anualmente chame um técnico capacitado para fazer a manutenção preventiva em seu computador. <p> </li> 
+                            <li>Anualmente chame um tÃ©cnico capacitado para fazer a manutenÃ§Ã£o preventiva em seu computador. <p> </li> 
                             <li><a href="http://www.amgauna.eti.br/antivirus-bootstrap.html">
-                              Desinstalar a versão velha do software antivirus utilizado no ano anterior e instalar a nova versão com assinatura de 12 meses.</a> <p> </li>
+                              Desinstalar a versÃ£o velha do software antivirus utilizado no ano anterior e instalar a nova versÃ£o com assinatura de 12 meses.</a> <p> </li>
                             <li>Limpar o processador, os ventiladores e limpar as placas internas dentro do gabinete do computador. <p> </li>
-                            <li>Limpar os arquivos temporarios que restaram de diversas instalações e desinstalações feitas. <p> </li>
+                            <li>Limpar os arquivos temporarios que restaram de diversas instalaÃ§Ãµes e desinstalaÃ§Ãµes feitas. <p> </li>
                             <li>Desfragmentar o disco rigido do computador, para melhorar o funcionamento do sistema operacional.</li>  </a>
                        </ul> </b>
                        <p> </p>
