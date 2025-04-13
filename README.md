@@ -1,4 +1,8 @@
-# Bootstrap 3.3.7 for Sass
+# Curriculum Vitae Resumido de Ana M Gauna (2017)
+
+# W3.CSS Template (2017)
+
+# Bootstrap 3.3.7 for Sass (2017)
 [![Gem Version](https://badge.fury.io/rb/bootstrap-sass.svg)](http://badge.fury.io/rb/bootstrap-sass)
 [![npm version](https://img.shields.io/npm/v/bootstrap-sass.svg?style=flat)](https://www.npmjs.com/package/bootstrap-sass)
 [![Bower Version](https://badge.fury.io/bo/bootstrap-sass.svg)](http://badge.fury.io/bo/bootstrap-sass)
